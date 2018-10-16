@@ -1,3 +1,3 @@
-# Welcome to my blog
+# 软件安装笔记
 
-I'm glad you are here. I plan to talk about ...
+解决pycharm中文输入法不跟随问题
